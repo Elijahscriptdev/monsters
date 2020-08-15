@@ -70,10 +70,6 @@ Contributions, issues and feature requests are welcome! Start by:
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- [Microverse](https://microverse.org)
-
 ---
 
 ## Future Features
