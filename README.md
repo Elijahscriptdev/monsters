@@ -1,72 +1,91 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+﻿# Monsters
 
-![Gif](https://res.cloudinary.com/elijjaaahhhh/image/upload/v1597454486/ezgif.com-crop_dulcjn.gif)
+This is a single page react website with the goal of learning how to fetch and render data with react
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Gif
 
-### `yarn start`
+### Homepage
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![homepage](https://res.cloudinary.com/elijjaaahhhh/image/upload/v1597454486/ezgif.com-crop_dulcjn.gif)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Built With
 
-### `yarn test`
+- HTML5
+- CSS3
+- Font Awesome
+- Google Fonts
+- Javascript(ES6)
+- Webpack
+- W3 Validators
+- Fetch API
+- npm
+---
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Prerequisites
 
-### `yarn build`
+- Webpack v4.43.0
+- npm
+- node
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Functionalities
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Search filter
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Getting Started
 
-### `yarn eject`
+To get a local copy up and running follow these simple example steps.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Clone the project unto your local machine
+- `cd` into the project directory
+- npm install
+- npm start
+- Open http://localhost:3000 to view it in the browser
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🤝 Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Contributions, issues and feature requests are welcome! Start by:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Forking the project
+- Cloning the project to your local machine
+- `cd` into the project directory
+- Run `git checkout -b your-branch-name`
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+👤 **Elijah Obominuru**
 
-### Code Splitting
+[Github](https://github.com/Elijahscriptdev) | [Twitter](https://twitter.com/ElijahObominuru) | [LinkedIn](https://www.linkedin.com/in/elijah-obominuru-0b730b143/)
+- Email: elijahobominuru@gmail.com
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+---
 
-### Analyzing the Bundle Size
+## Show your support
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Give a ⭐️ if you like this project!
 
-### Making a Progressive Web App
+## Acknowledgments
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- [Microverse](https://microverse.org)
 
-### Advanced Configuration
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## Future Features
 
-### Deployment
+- A better mobile friendly experience
+- Cleaner log in / sign up pages
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+---
 
-### `yarn build` fails to minify
+## 📝 License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# monsters
+This project is [MIT](lic.url) licensed.
+
+---
 
